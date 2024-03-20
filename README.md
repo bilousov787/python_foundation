@@ -1,2 +1,2 @@
-# python_fundation
+# python_foundation
 python lessons
